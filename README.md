@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently diving deeper into **React and Spring Boot**
 
-- 📝 📫 Reach me at [kossara.abderrahim21@gmail.com](kossara.abderrahim21@gmail.com)
-
 - 🛠️ Exploring **full-stack development, system design, and project deployment**
 
 - 💬 Ask me about **Java, React, or how I’m turning ideas into real apps**
+
+- 📝 📫 Reach me at [kossara.abderrahim21@gmail.com](kossara.abderrahim21@gmail.com)
 
 - ⚡ Fun fact **I think I am funny**
 
