@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Abderrahim kossara</h1>
 <h3 align="center">Future Engineer & Passionate Developer</h3>
 
-- 🌱 I'm currently diving deeper into **React and Spring Boot**
+- 🌱 I'm currently diving deeper into **Angular and Spring Boot**
 
 - 🛠️ Exploring **full-stack development, system design, and project deployment**
 
-- 💬 Ask me about **Java, React, or how I'm turning ideas into real apps**
+- 💬 Ask me about **Java, Angular, or how I'm turning ideas into real apps**
 
 - 📫 Reach me at [kossara.abderrahim21@gmail.com](mailto:kossara.abderrahim21@gmail.com)
 
